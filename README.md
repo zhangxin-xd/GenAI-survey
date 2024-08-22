@@ -12,6 +12,6 @@
 
 
 ## Attack 
-| Methods | code | paper |blackbox?|author|comments|
+| Methods | code | paper |blackbox?|year|comments|
 | -------- | -------- | -------- |-------- | -------- |-------- | 
-| Text     | Text     | Text     | Text     | Text     | Text     | Text     |
+|Defense Against Adversarial Attacks on Audio DeepFake Detection   | https://github.com/piotrkawa/audio-deepfake-adversarial-attacks?tab=readme-ov-file     | https://www.isca-archive.org/interspeech_2023/kawa23_interspeech.html     | 2023    | Text     | Text     | Text     |
